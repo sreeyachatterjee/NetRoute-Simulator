@@ -31,3 +31,10 @@ Edit
 Copy
 Edit
 ./client
+
+```
+🤝 Contributing
+Feel free to fork this repository and improve the algorithm or add features!
+
+🔗 GitHub Repository: github.com/sreeyachatterjee/NetRoute-Simulator
+🚀 Developed by: Sreeya Chatterjee
