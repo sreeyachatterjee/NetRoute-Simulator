@@ -22,14 +22,10 @@ gcc client.c -o client
 ```
 ### **2. Run the server**
 ```bash
-Copy
-Edit
 ./server
 ```
 ### **3. Run the client**
 ```bash
-Copy
-Edit
 ./client
 
 ```
